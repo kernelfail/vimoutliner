@@ -57,13 +57,13 @@
 " added this next conditional at Dillon's recommendation
 if &background == "light"
 	hi OL1 guifg=black	ctermfg=black
-	hi OL2 guifg=red	ctermfg=red
+	hi OL2 guifg=firebrick	ctermfg=red
 	hi OL3 guifg=blue	ctermfg=blue
-	hi OL4 guifg=darkviolet	ctermfg=magenta
+	hi OL4 guifg=mediumorchid	ctermfg=magenta
 	hi OL5 guifg=black	ctermfg=black
-	hi OL6 guifg=red	ctermfg=red
+	hi OL6 guifg=firebrick	ctermfg=red
 	hi OL7 guifg=blue	ctermfg=blue
-	hi OL8 guifg=darkviolet	ctermfg=magenta
+	hi OL8 guifg=mediumorchid	ctermfg=magenta
 	hi OL9 guifg=black	ctermfg=black
 
 	" colors for tags
@@ -92,15 +92,15 @@ if &background == "light"
 	hi PT9 guifg=darkblue	ctermfg=cyan
 
 	" color for tables 
-	hi TA1 guifg=darkviolet	ctermfg=cyan
-	hi TA2 guifg=darkviolet	ctermfg=cyan
-	hi TA3 guifg=darkviolet	ctermfg=cyan
-	hi TA4 guifg=darkviolet	ctermfg=cyan
-	hi TA5 guifg=darkviolet	ctermfg=cyan
-	hi TA6 guifg=darkviolet	ctermfg=cyan
-	hi TA7 guifg=darkviolet	ctermfg=cyan
-	hi TA8 guifg=darkviolet	ctermfg=cyan
-	hi TA9 guifg=darkviolet	ctermfg=cyan
+	hi TA1 guifg=mediumorchid	ctermfg=cyan
+	hi TA2 guifg=mediumorchid	ctermfg=cyan
+	hi TA3 guifg=mediumorchid	ctermfg=cyan
+	hi TA4 guifg=mediumorchid	ctermfg=cyan
+	hi TA5 guifg=mediumorchid	ctermfg=cyan
+	hi TA6 guifg=mediumorchid	ctermfg=cyan
+	hi TA7 guifg=mediumorchid	ctermfg=cyan
+	hi TA8 guifg=mediumorchid	ctermfg=cyan
+	hi TA9 guifg=mediumorchid	ctermfg=cyan
 
 	" color for user text (wrapping)
 	hi UT1 guifg=darkred	ctermfg=cyan
@@ -135,13 +135,13 @@ if &background == "light"
 " Dark background {{{2
 else 
 	hi OL1 guifg=white	ctermfg=white
-	hi OL2 guifg=red	ctermfg=red
+	hi OL2 guifg=firebrick	ctermfg=red
 	hi OL3 guifg=lightblue	ctermfg=lightblue
-	hi OL4 guifg=darkviolet	ctermfg=magenta
+	hi OL4 guifg=mediumorchid	ctermfg=magenta
 	hi OL5 guifg=white	ctermfg=white
-	hi OL6 guifg=red	ctermfg=red
+	hi OL6 guifg=firebrick	ctermfg=red
 	hi OL7 guifg=lightblue	ctermfg=lightblue
-	hi OL8 guifg=darkviolet	ctermfg=magenta
+	hi OL8 guifg=mediumorchid	ctermfg=magenta
 	hi OL9 guifg=white	ctermfg=white
 
 	" colors for tags
@@ -170,15 +170,15 @@ else
 	hi PT9 guifg=darkblue	ctermfg=cyan
 
 	" color for tables 
-	hi TA1 guifg=darkviolet	ctermfg=cyan
-	hi TA2 guifg=darkviolet	ctermfg=cyan
-	hi TA3 guifg=darkviolet	ctermfg=cyan
-	hi TA4 guifg=darkviolet	ctermfg=cyan
-	hi TA5 guifg=darkviolet	ctermfg=cyan
-	hi TA6 guifg=darkviolet	ctermfg=cyan
-	hi TA7 guifg=darkviolet	ctermfg=cyan
-	hi TA8 guifg=darkviolet	ctermfg=cyan
-	hi TA9 guifg=darkviolet	ctermfg=cyan
+	hi TA1 guifg=mediumorchid	ctermfg=cyan
+	hi TA2 guifg=mediumorchid	ctermfg=cyan
+	hi TA3 guifg=mediumorchid	ctermfg=cyan
+	hi TA4 guifg=mediumorchid	ctermfg=cyan
+	hi TA5 guifg=mediumorchid	ctermfg=cyan
+	hi TA6 guifg=mediumorchid	ctermfg=cyan
+	hi TA7 guifg=mediumorchid	ctermfg=cyan
+	hi TA8 guifg=mediumorchid	ctermfg=cyan
+	hi TA9 guifg=mediumorchid	ctermfg=cyan
 
 	" color for user text (wrapping)
 	hi UT1 guifg=darkred	ctermfg=cyan
